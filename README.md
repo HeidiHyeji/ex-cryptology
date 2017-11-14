@@ -1,4 +1,5 @@
 # Cryptology
-암호화/복호화 알고리즘 및 테스트입니다.
+It's a study project for Cryptology.
 
-본인이 구현한 코드가 아니며, 검색을 통해 여러 블로그에서 수집한 코드입니다.문제 시, 연락부탁드립니다.
+I am not the original author, and collected them from Google.
+If there is a violation of a copyright, please email to gogo6076@naver.com
